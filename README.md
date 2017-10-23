@@ -55,6 +55,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/pico-uid.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install pico-uid
 # OR
