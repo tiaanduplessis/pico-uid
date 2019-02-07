@@ -1,0 +1,2 @@
+!function(o,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):o.picoUid=e()}(this,function(){var o="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_";return function(e,n){void 0===e&&(e=16),void 0===n&&(n=64);for(var t=[],i=0;i<e;i=2)t[i]=o[Math.floor(Math.random()*n)];return t.join("")}});
+//# sourceMappingURL=pico-uid.umd.js.map

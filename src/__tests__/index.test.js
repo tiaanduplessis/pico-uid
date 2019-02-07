@@ -1,4 +1,4 @@
-import uid from '../src'
+import uid from '../index'
 
 test('should be defined', () => {
   expect(uid).toBeDefined()

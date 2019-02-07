@@ -1,23 +1,2 @@
-(function (global, factory) {
-	typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
-	typeof define === 'function' && define.amd ? define(factory) :
-	(global.picoUid = factory());
-}(this, (function () { 'use strict';
-
-var BASE64_CHARS =
-  '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_';
-
-function uid (len, radix) {
-  if ( len === void 0 ) len = 16;
-  if ( radix === void 0 ) radix = 64;
-
-  var id = [];
-  for (var i = 0; i < len; i++) {
-    id[i] = BASE64_CHARS[Math.floor(Math.random() * radix)];
-  }
-  return id.join('')
-}
-
-return uid;
-
-})));
+var o="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_";module.exports=function(r,a){void 0===r&&(r=16),void 0===a&&(a=64);for(var n=[],t=0;t<r;t=2)n[t]=o[Math.floor(Math.random()*a)];return n.join("")};
+//# sourceMappingURL=pico-uid.js.map

@@ -1,7 +1,7 @@
 
 <h1 align="center">pico-uid</h1>
 <div align="center">
-  <strong>Tiny Unique ID generator (Less than 400 bytes gzipped and bundled)</strong>
+  <strong>Tiny Unique ID generator</strong>
 </div>
 <br>
 <div align="center">
@@ -28,21 +28,6 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/tiaanduplessis/pico-uid/watchers">
-    <img src="https://img.shields.io/github/watchers/tiaanduplessis/pico-uid.svg?style=social" alt="Github Watch Badge" />
-  </a>
-  <a href="https://github.com/tiaanduplessis/pico-uid/stargazers">
-    <img src="https://img.shields.io/github/stars/tiaanduplessis/pico-uid.svg?style=social" alt="Github Star Badge" />
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20pico-uid!%20https://github.com/tiaanduplessis/pico-uid%20%F0%9F%91%8D">
-    <img src="https://img.shields.io/twitter/url/https/github.com/tiaanduplessis/pico-uid.svg?style=social" alt="Tweet" />
-  </a>
-</div>
-<br>
-<div align="center">
-  Built with ❤︎ by <a href="https://github.com/tiaanduplessis">tiaanduplessis</a> and <a href="https://github.com/tiaanduplessis/pico-uid/contributors">contributors</a>
-</div>
 
 <h2>Table of Contents</h2>
 <details>
